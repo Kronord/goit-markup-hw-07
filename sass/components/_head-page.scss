@@ -1,0 +1,13 @@
+.head-page {
+    border-bottom: 1px solid $header-border-color;
+}
+
+.head-page>.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-page {
+    display: flex;
+    align-items: center;
+}
